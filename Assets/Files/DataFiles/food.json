@@ -1,0 +1,19 @@
+{
+    "version" : "1.0",
+    "data": [
+        {
+            "food_id": 1,
+            "food_name": "food A",
+            "total_bite": 10,
+            "hunger_per_bite" : 3,
+            "thirst_per_bite" : 1
+        },
+        {
+            "food_id": 2,
+            "food_name": "food B",
+            "total_bite": 4,
+            "hunger_per_bite": 5,
+            "thirst_per_bite": 6
+        }
+    ]
+}
